@@ -1,0 +1,12 @@
+C:\Users\gergo\Documents\GitHub\CPP-Project-Console-Runner\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbprojAssemblyReference.cache
+C:\Users\gergo\Documents\GitHub\CPP-Project-Console-Runner\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+C:\Users\gergo\Documents\GitHub\CPP-Project-Console-Runner\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\gergo\Documents\GitHub\CPP-Project-Console-Runner\WindowsApp1\WindowsApp1\obj\Debug\CmdRunner.Form1.resources
+C:\Users\gergo\Documents\GitHub\CPP-Project-Console-Runner\WindowsApp1\WindowsApp1\obj\Debug\CmdRunner.Resources.resources
+C:\Users\gergo\Documents\GitHub\CPP-Project-Console-Runner\WindowsApp1\WindowsApp1\bin\Debug\CmdRunner.exe.config
+C:\Users\gergo\Documents\GitHub\CPP-Project-Console-Runner\WindowsApp1\WindowsApp1\bin\Debug\CmdRunner.exe
+C:\Users\gergo\Documents\GitHub\CPP-Project-Console-Runner\WindowsApp1\WindowsApp1\bin\Debug\CmdRunner.pdb
+C:\Users\gergo\Documents\GitHub\CPP-Project-Console-Runner\WindowsApp1\WindowsApp1\bin\Debug\CmdRunner.xml
+C:\Users\gergo\Documents\GitHub\CPP-Project-Console-Runner\WindowsApp1\WindowsApp1\obj\Debug\CmdRunner.exe
+C:\Users\gergo\Documents\GitHub\CPP-Project-Console-Runner\WindowsApp1\WindowsApp1\obj\Debug\CmdRunner.xml
+C:\Users\gergo\Documents\GitHub\CPP-Project-Console-Runner\WindowsApp1\WindowsApp1\obj\Debug\CmdRunner.pdb
