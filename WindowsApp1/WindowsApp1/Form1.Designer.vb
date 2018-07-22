@@ -30,6 +30,7 @@ Partial Class Form1
         Me.FolderBrowserDialog1 = New System.Windows.Forms.FolderBrowserDialog()
         Me.ListBox1 = New System.Windows.Forms.ListBox()
         Me.startBtn = New System.Windows.Forms.Button()
+        Me.exportBtn = New System.Windows.Forms.Button()
         Me.SuspendLayout()
         '
         'ComboBox1
@@ -100,11 +101,22 @@ Partial Class Form1
         Me.startBtn.Text = "Start"
         Me.startBtn.UseVisualStyleBackColor = True
         '
+        'exportBtn
+        '
+        Me.exportBtn.Anchor = CType((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Left), System.Windows.Forms.AnchorStyles)
+        Me.exportBtn.Location = New System.Drawing.Point(99, 271)
+        Me.exportBtn.Name = "exportBtn"
+        Me.exportBtn.Size = New System.Drawing.Size(75, 23)
+        Me.exportBtn.TabIndex = 7
+        Me.exportBtn.Text = "Export"
+        Me.exportBtn.UseVisualStyleBackColor = True
+        '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(367, 306)
+        Me.Controls.Add(Me.exportBtn)
         Me.Controls.Add(Me.startBtn)
         Me.Controls.Add(Me.ListBox1)
         Me.Controls.Add(Me.dirLabel)
@@ -127,4 +139,5 @@ Partial Class Form1
     Friend WithEvents FolderBrowserDialog1 As FolderBrowserDialog
     Friend WithEvents ListBox1 As ListBox
     Friend WithEvents startBtn As Button
+    Friend WithEvents exportBtn As Button
 End Class
